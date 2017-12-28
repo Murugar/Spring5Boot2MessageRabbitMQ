@@ -1,0 +1,5 @@
+/home/iqmsoft/spring5/Spring5Boot2MessageRabbitMQ/src/main/java/com/iqmsoft/rabbitmq/GreetingController.java
+/home/iqmsoft/spring5/Spring5Boot2MessageRabbitMQ/src/main/java/com/iqmsoft/rabbitmq/Receiver.java
+/home/iqmsoft/spring5/Spring5Boot2MessageRabbitMQ/src/main/java/com/iqmsoft/rabbitmq/Greet.java
+/home/iqmsoft/spring5/Spring5Boot2MessageRabbitMQ/src/main/java/com/iqmsoft/rabbitmq/Sender.java
+/home/iqmsoft/spring5/Spring5Boot2MessageRabbitMQ/src/main/java/com/iqmsoft/rabbitmq/Main.java
